@@ -1,0 +1,926 @@
+{
+    "2-ketoglutarate dehydrogenase complex": [
+        "YFL018C",
+        "YDR148C",
+        "YIL125W"
+    ],
+    "acetoin biosynthesis": [
+        "YAL060W",
+        "YMR108W",
+        "YCL009C"
+    ],
+    "acetoin biosynthesis II": [
+        "YLR044C",
+        "YLR134W",
+        "YGR087C"
+    ],
+    "aerobic respiration, electron transport chain": [
+        "Q0105",
+        "YBL045C",
+        "YOR065W",
+        "YHR001W-A",
+        "YPR191W",
+        "YFR033C",
+        "YDR529C",
+        "YJL166W",
+        "YGR183C",
+        "YEL024W",
+        "YML120C",
+        "Q0045",
+        "YLR038C",
+        "YGL191W",
+        "Q0250",
+        "Q0275",
+        "YGL187C",
+        "YNL052W",
+        "YHR051W",
+        "YMR256C",
+        "YLR395C",
+        "YDL067C",
+        "YKL148C",
+        "YLL041C",
+        "YKL141W",
+        "YDR178W"
+    ],
+    "allantoin degradation": [
+        "YIR029W",
+        "YIR027C",
+        "YBR208C",
+        "YIR032C"
+    ],
+    "arginine biosynthesis": [
+        "YER069W",
+        "YOL140W",
+        "YJL071W",
+        "YMR062C",
+        "YHR018C",
+        "YOL058W",
+        "YOR303W",
+        "YJR109C",
+        "YJL130C",
+        "YJL088W"
+    ],
+    "arginine degradation (anaerobic)": [
+        "YPL111W",
+        "YLR438W",
+        "YER023W"
+    ],
+    "asparagine biosynthesis": [
+        "YPR145W",
+        "YGR124W",
+        "YKL106W",
+        "YLR027C"
+    ],
+    "asparagine degradation": [
+        "YDR321W",
+        "YLR155C",
+        "YLR157C",
+        "YLR158C",
+        "YLR160C",
+        "YKL106W",
+        "YLR027C"
+    ],
+    "aspartate biosynthesis": [
+        "YKL106W",
+        "YLR027C",
+        "YGL062W",
+        "YBR218C"
+    ],
+    "beta-alanine biosynthesis": [
+        "YMR170C",
+        "YMR169C",
+        "YMR020W"
+    ],
+    "biotin biosynthesis": [
+        "YNR058W",
+        "YGR286C",
+        "YNR057C"
+    ],
+    "carnitine shuttle": [
+        "YML042W",
+        "YAR035W",
+        "YER024W"
+    ],
+    "chitin biosynthesis": [
+        "YNL192W",
+        "YBR038W",
+        "YBR023C"
+    ],
+    "chorismate biosynthesis": [
+        "YDR035W",
+        "YBR249C",
+        "YDR127W",
+        "YGL148W"
+    ],
+    "citrulline biosynthesis": [
+        "YOR303W",
+        "YJR109C",
+        "YJL130C",
+        "YJL088W"
+    ],
+    "de novo biosynthesis of purine nucleotides": [
+        "YER070W",
+        "YJL026W",
+        "YIL066C",
+        "YGR180C",
+        "YKL067W",
+        "YDR226W",
+        "YER170W",
+        "YLR359W",
+        "YNL220W",
+        "YMR300C",
+        "YMR217W",
+        "YDR454C",
+        "YLR028C",
+        "YMR120C",
+        "YHR216W",
+        "YLR432W",
+        "YML056C",
+        "YGL234W",
+        "YOR128C",
+        "YAR015W",
+        "YGR061C",
+        "YDR408C"
+    ],
+    "de novo biosynthesis of pyrimidine deoxyribonucleotides": [
+        "YER070W",
+        "YJL026W",
+        "YIL066C",
+        "YGR180C",
+        "YJR057W",
+        "YKL067W",
+        "YBR252W",
+        "YOR074C"
+    ],
+    "de novo biosynthesis of pyrimidine ribonucleotides": [
+        "YKL024C",
+        "YJL130C",
+        "YOR303W",
+        "YJR109C",
+        "YBL039C",
+        "YJR103W",
+        "YLR420W",
+        "YKL216W",
+        "YMR271C",
+        "YML106W",
+        "YEL021W"
+    ],
+    "de novo NAD biosynthesis": [
+        "YHR074W",
+        "YLR328W",
+        "YGR010W",
+        "YFR047C"
+    ],
+    "dehydro-D-arabinono-1,4-lactone biosynthesis": [
+        "YML086C",
+        "YMR041C",
+        "YBR149W"
+    ],
+    "diphthamide biosynthesis": [
+        "YIL103W",
+        "YKL191W",
+        "YBL071W-A",
+        "YLR172C",
+        "YBR246W"
+    ],
+    "dolichyl glucosyl phosphate biosynthesis": [
+        "YPL227C",
+        "YKL127W",
+        "YMR105C",
+        "YKL035W"
+    ],
+    "dolichyl phosphate D-mannose biosynthesis": [
+        "YPR183W",
+        "YDL055C",
+        "YER003C",
+        "YFL045C"
+    ],
+    "ergosterol biosynthesis": [
+        "YMR202W",
+        "YLR056W",
+        "YMR015C",
+        "YGL001C",
+        "YLR100W",
+        "YHR007C",
+        "YGR060W",
+        "YNL280C",
+        "YGL012W",
+        "YML008C",
+        "YHR190W",
+        "YJL167W",
+        "YHR072W",
+        "YGR175C"
+    ],
+    "ethanol degradation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YAL054C",
+        "YLR153C",
+        "YMR170C"
+    ],
+    "fatty acid biosynthesis, initial steps": [
+        "YKL182W",
+        "YER061C",
+        "YPL231W",
+        "YNR016C",
+        "YMR207C",
+        "YOR221C"
+    ],
+    "fatty acid elongation": [
+        "YKL182W",
+        "YPL231W",
+        "YKL055C",
+        "YER061C"
+    ],
+    "fatty acid oxidation pathway": [
+        "YKR009C",
+        "YIL160C",
+        "YGL205W",
+        "YOR180C",
+        "YLR284C",
+        "YOR317W",
+        "YER015W",
+        "YIL009W",
+        "YMR246W",
+        "YBR041W"
+    ],
+    "folate biosynthesis": [
+        "YDR019C",
+        "YMR189W",
+        "YAL044C",
+        "YFL018C",
+        "YMR289W",
+        "YNR033W",
+        "YNL256W",
+        "YOR236W",
+        "YMR113W",
+        "YGR204W",
+        "YBR084W",
+        "YBR263W",
+        "YLR058C",
+        "YGR267C",
+        "YKR080W",
+        "YPL023C",
+        "YGL125W",
+        "YOR074C"
+    ],
+    "folate biosynthesis II": [
+        "YMR289W",
+        "YNR033W",
+        "YNL256W",
+        "YOR236W",
+        "YMR113W",
+        "YGR267C"
+    ],
+    "folate interconversions": [
+        "YDR019C",
+        "YMR189W",
+        "YAL044C",
+        "YFL018C",
+        "YOR236W",
+        "YGR204W",
+        "YBR084W",
+        "YBR263W",
+        "YLR058C",
+        "YKR080W",
+        "YPL023C",
+        "YGL125W",
+        "YOR074C"
+    ],
+    "folate polyglutamylation": [
+        "YOR241W",
+        "YOR236W",
+        "YMR113W",
+        "YGR204W",
+        "YBR084W",
+        "YBR263W",
+        "YLR058C",
+        "YPL023C",
+        "YGL125W"
+    ],
+    "folate transformations": [
+        "YDR019C",
+        "YMR189W",
+        "YAL044C",
+        "YFL018C",
+        "YER183C",
+        "YGR204W",
+        "YBR084W",
+        "YBR263W",
+        "YLR058C",
+        "YKR080W",
+        "YPL023C",
+        "YGL125W"
+    ],
+    "galactose degradation": [
+        "YBR019C",
+        "YBR020W",
+        "YKL127W",
+        "YMR105C",
+        "YBR018C"
+    ],
+    "gluconeogenesis": [
+        "YLR377C",
+        "YKL060C",
+        "YBR196C",
+        "YJL052W",
+        "YJR009C",
+        "YGR192C",
+        "YKL085W",
+        "YOL126C",
+        "YDL078C",
+        "YKL029C",
+        "YKR097W",
+        "YCR012W",
+        "YKL152C",
+        "YGR254W",
+        "YHR174W",
+        "YGL062W",
+        "YBR218C"
+    ],
+    "glucose-6-phosphate biosynthesis": [
+        "YCL040W",
+        "YFR053C",
+        "YGL253W"
+    ],
+    "glutamate degradation I": [
+        "YGR019W",
+        "YMR250W",
+        "YBR006W"
+    ],
+    "glutathione-glutaredoxin redox reactions": [
+        "YKL026C",
+        "YBR244W",
+        "YIR037W",
+        "YPL091W",
+        "YIR038C",
+        "YLL060C"
+    ],
+    "glycerol biosynthesis": [
+        "HOR2",
+        "RHR2",
+        "YDL022W",
+        "YOL059W"
+    ],
+    "glycine cleavage complex": [
+        "YFL018C",
+        "YDR019C",
+        "YMR189W"
+    ],
+    "glycogen biosynthesis": [
+        "YKR058W",
+        "YJL137C",
+        "YEL011W",
+        "YFR015C",
+        "YLR258W",
+        "YKL127W",
+        "YMR105C",
+        "YKL035W"
+    ],
+    "glycogen catabolism": [
+        "YPR160W",
+        "YPR184W",
+        "YIL099W"
+    ],
+    "glycolysis": [
+        "YGR240C",
+        "YMR205C",
+        "YKL060C",
+        "YBR196C",
+        "YJL052W",
+        "YJR009C",
+        "YGR192C",
+        "YCR012W",
+        "YKL152C",
+        "YGR254W",
+        "YHR174W",
+        "YAL038W",
+        "YOR347C",
+        "YDR050C"
+    ],
+    "glyoxylate cycle": [
+        "YLR304C",
+        "YJL200C",
+        "YNR001C",
+        "YCR005C",
+        "YPR001W",
+        "YER065C",
+        "YKL085W",
+        "YOL126C",
+        "YDL078C",
+        "YIR031C",
+        "YNL117W"
+    ],
+    "heme biosynthesis": [
+        "YDR044W",
+        "YOR176W",
+        "YER014W",
+        "YDR047W"
+    ],
+    "hexaprenyl diphosphate biosynthesis": [
+        "YBR003W",
+        "YJL167W",
+        "YPL069C"
+    ],
+    "histidine biosynthesis": [
+        "YBR248C",
+        "YER055C",
+        "YCL030C",
+        "YFR025C",
+        "YIL116W",
+        "YOR202W",
+        "YIL020C"
+    ],
+    "homoserine biosynthesis": [
+        "YER052C",
+        "YDR158W",
+        "YJR139C"
+    ],
+    "<i>myo</i>-inositol biosynthesis": [
+        "YHR046C",
+        "YDR287W",
+        "YJL153C"
+    ],
+    "inositol phosphate biosynthesis": [
+        "YDR173C",
+        "YDR315C",
+        "YDR017C",
+        "YLR410W",
+        "YOR163W",
+        "YPL268W"
+    ],
+    "isoleucine biosynthesis": [
+        "YMR108W",
+        "YCL009C",
+        "YHR208W",
+        "YJR148W",
+        "YJR016C",
+        "YLR355C",
+        "YER086W"
+    ],
+    "isoleucine degradation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YDL168W",
+        "YDR380W",
+        "YLR044C",
+        "YLR134W",
+        "YGR087C",
+        "YDL080C",
+        "YHR208W",
+        "YJR148W"
+    ],
+    "leucine biosynthesis": [
+        "YNL104C",
+        "YOR108W",
+        "YGL009C",
+        "YCL018W",
+        "YHR208W",
+        "YJR148W"
+    ],
+    "leucine degradation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YDL168W",
+        "YDR380W",
+        "YDL080C",
+        "YHR208W",
+        "YJR148W"
+    ],
+    "lipid-linked oligosaccharide biosynthesis": [
+        "YNL048W",
+        "YGL065C",
+        "YOR002W",
+        "YOR067C",
+        "YGR227W",
+        "YNR030W",
+        "YBL082C",
+        "YNL219C",
+        "YBR110W",
+        "YGL047W",
+        "YBR070C",
+        "YBR243C"
+    ],
+    "lysine biosynthesis": [
+        "YNR050C",
+        "YDR234W",
+        "YBR115C",
+        "YDL182W",
+        "YDL131W",
+        "YIL094C",
+        "YIR034C"
+    ],
+    "mannose degradation": [
+        "YCL040W",
+        "YFR053C",
+        "YGL253W",
+        "YER003C"
+    ],
+    "methionine salvage pathway": [
+        "YGL202W",
+        "YHR137W",
+        "YHR208W",
+        "YJR148W",
+        "YLR017W",
+        "YPR118W",
+        "YMR009W",
+        "YEL038W",
+        "YJR024C"
+    ],
+    "methylglyoxal catabolism": [
+        "YDR272W",
+        "YOR040W",
+        "YML004C"
+    ],
+    "mevalonate pathway": [
+        "YPL028W",
+        "YNR043W",
+        "YML075C",
+        "YLR450W",
+        "YML126C",
+        "YPL117C",
+        "YMR208W",
+        "YMR220W"
+    ],
+    "NAD salvage pathway": [
+        "YDL042C",
+        "YHR074W",
+        "YGL037C",
+        "YOR209C",
+        "YLR328W",
+        "YGR010W"
+    ],
+    "nicotinamide riboside salvage pathway I": [
+        "YLR328W",
+        "YGR010W",
+        "YNL129W"
+    ],
+    "non-oxidative branch of the pentose phosphate pathway": [
+        "YPR074C",
+        "YOR095C",
+        "YJL121C",
+        "YLR354C",
+        "YBR117C"
+    ],
+    "oxidative branch of the pentose phosphate pathway": [
+        "YHR163W",
+        "YGR248W",
+        "YNL241C",
+        "YHR183W",
+        "YGR256W"
+    ],
+    "pantothenate and coenzyme A biosynthesis": [
+        "YHR063C",
+        "YBR176W",
+        "YDR196C",
+        "YGR277C",
+        "YIL145C",
+        "YDR531W",
+        "YIL083C",
+        "YKL088W",
+        "YKR072C",
+        "YOR054C"
+    ],
+    "phenylalanine biosynthesis": [
+        "YHR137W",
+        "YGL202W",
+        "YPR060C",
+        "YNL316C"
+    ],
+    "phenylalanine degradation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YDL168W",
+        "YHR137W",
+        "YDR380W",
+        "YLR044C",
+        "YLR134W",
+        "YGR087C",
+        "YGL202W"
+    ],
+    "phosphatidate biosynthesis I (the dihydroxyacetone pathway)": [
+        "YIL124W",
+        "YKR067W",
+        "YBL011W",
+        "YDL052C"
+    ],
+    "phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)": [
+        "YDL052C",
+        "YDL022W",
+        "YOL059W",
+        "YKR067W",
+        "YBL011W"
+    ],
+    "phosphatidylinositol phosphate biosynthesis": [
+        "YNL325C",
+        "YNL106C",
+        "YOR109W",
+        "YKL212W",
+        "YLR240W",
+        "YJL100W",
+        "YNL267W",
+        "YLR305C",
+        "YFR019W",
+        "YDR208W",
+        "YJR110W",
+        "YIL002C",
+        "YOL065C"
+    ],
+    "phospholipid biosynthesis": [
+        "YJR073C",
+        "YDL142C",
+        "YCL004W",
+        "YER026C",
+        "YGR157W",
+        "YNL169C",
+        "YGR170W"
+    ],
+    "phospholipid biosynthesis II (Kennedy pathway)": [
+        "YDR147W",
+        "YGR007W",
+        "YHR123W"
+    ],
+    "phospholipid biosynthesis (Kennedy pathway)": [
+        "YLR133W",
+        "YGR202C",
+        "YNL130C"
+    ],
+    "phospholipids degradation": [
+        "YPL268W",
+        "YER019W",
+        "YKR031C"
+    ],
+    "proline biosynthesis": [
+        "YDR300C",
+        "YOR323C",
+        "YER023W"
+    ],
+    "pyruvate dehydrogenase complex": [
+        "YFL018C",
+        "YNL071W",
+        "YER178W",
+        "YBR221C"
+    ],
+    "removal of superoxide radicals": [
+        "YDR256C",
+        "YGR088W",
+        "YJR104C",
+        "YHR008C"
+    ],
+    "riboflavin, FMN and FAD biosynthesis": [
+        "YOL066C",
+        "YDR487C",
+        "YOL143C",
+        "YBR153W",
+        "YDL045C",
+        "YBL033C",
+        "YDR236C",
+        "YBR256C"
+    ],
+    "S-adenosylmethionine cycle": [
+        "YER091C",
+        "YER043C",
+        "YLR180W",
+        "YDR502C"
+    ],
+    "salvage pathways of adenine, hypoxanthine and their nucleosides": [
+        "YLR209C",
+        "YNL141W",
+        "YML022W",
+        "YDR441C",
+        "YJR105W",
+        "YML035C",
+        "YDR399W"
+    ],
+    "salvage pathways of guanine, xanthine and their nucleosides": [
+        "YDR399W",
+        "YDL238C",
+        "YJR133W"
+    ],
+    "salvage pathways of purines and their nucleosides": [
+        "YLR209C",
+        "YDR399W",
+        "YNL141W",
+        "YML022W",
+        "YDR441C",
+        "YJR105W",
+        "YML035C",
+        "YDL238C",
+        "YJR133W"
+    ],
+    "salvage pathways of pyrimidine deoxyribonucleotides": [
+        "YNR012W",
+        "YDR400W",
+        "YLR245C"
+    ],
+    "salvage pathways of pyrimidine ribonucleotides": [
+        "YNR012W",
+        "YKL067W",
+        "YDR400W",
+        "YLR245C",
+        "YPR062W",
+        "YHR128W"
+    ],
+    "serine biosynthesis from 3-phosphoglycerate": [
+        "YER081W",
+        "YIL074C",
+        "YOR184W",
+        "YGR208W"
+    ],
+    "sphingolipid metabolism": [
+        "YMR272C",
+        "YDR072C",
+        "YBR265W",
+        "YPL087W",
+        "YBR183W",
+        "YKL008C",
+        "YHL003C",
+        "YMR298W",
+        "YOR171C",
+        "YLR260W",
+        "YJL134W",
+        "YKR053C",
+        "YDR297W",
+        "YKL004W",
+        "YBR036C",
+        "YPL057C",
+        "YMR296C",
+        "YDR062W",
+        "YDR294C"
+    ],
+    "sulfate assimilation pathway": [
+        "YKL001C",
+        "YPR167C",
+        "YJR010W",
+        "YFR030W",
+        "YJR137C"
+    ],
+    "superpathway of glucose fermentation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YOR374W",
+        "YER073W",
+        "YLR044C",
+        "YLR134W",
+        "YGR087C",
+        "YMR170C",
+        "YPL061W",
+        "YCL040W",
+        "YFR053C",
+        "YGL253W"
+    ],
+    "superpathway of glutamate biosynthesis": [
+        "YPR035W",
+        "YDL066W",
+        "YLR174W",
+        "YNL009W"
+    ],
+    "superpathway of histidine, purine, and pyrimidine biosynthesis": [
+        "YMR300C",
+        "YKL181W",
+        "YER099C",
+        "YHL011C",
+        "YBL068W",
+        "YOL061W"
+    ],
+    "TCA cycle, aerobic respiration": [
+        "YIL125W",
+        "YDR148C",
+        "YFL018C",
+        "YLR304C",
+        "YJL200C",
+        "YNR001C",
+        "YCR005C",
+        "YPR001W",
+        "YPL262W",
+        "YNL037C",
+        "YOR136W",
+        "YKL085W",
+        "YOL126C",
+        "YDL078C",
+        "YGL062W",
+        "YBR218C",
+        "YKL148C",
+        "YLL041C",
+        "YKL141W",
+        "YDR178W",
+        "YOR142W",
+        "YGR244C"
+    ],
+    "tetrapyrrole biosynthesis": [
+        "YDR232W",
+        "YDL205C",
+        "YGL040C",
+        "YOR278W"
+    ],
+    "thiamine biosynthesis": [
+        "YJR156C",
+        "YNL332W",
+        "YDL244W",
+        "YGR144W",
+        "YFL058W",
+        "YOL055C",
+        "YPL258C",
+        "YOR143C",
+        "YPL214C"
+    ],
+    "triglyceride biosynthesis": [
+        "YNR008W",
+        "YDL052C",
+        "YOR245C",
+        "YKR067W",
+        "YBL011W",
+        "YMR165C"
+    ],
+    "tryptophan biosynthesis": [
+        "YDR354W",
+        "YER090W",
+        "YKL211C",
+        "YDR007W",
+        "YGL026C"
+    ],
+    "tryptophan degradation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YDL168W",
+        "YHR137W",
+        "YDR380W",
+        "YLR044C",
+        "YLR134W",
+        "YGR087C",
+        "YGL202W"
+    ],
+    "tryptophan degradation via kynurenine": [
+        "YLR231C",
+        "YJR025C",
+        "YDR428C",
+        "YBL098W",
+        "YFR047C",
+        "YJR078W"
+    ],
+    "tyrosine biosynthesis": [
+        "YHR137W",
+        "YGL202W",
+        "YPR060C",
+        "YBR166C"
+    ],
+    "ubiquinone biosynthesis from 4-hydroxybenzoate": [
+        "YOR125C",
+        "YGR255C",
+        "YOL096C",
+        "YML110C",
+        "YNR041C"
+    ],
+    "UDP-N-acetylglucosamine biosynthesis": [
+        "YKL104C",
+        "YFL017C",
+        "YEL058W",
+        "YDL103C"
+    ],
+    "valine biosynthesis": [
+        "YMR108W",
+        "YCL009C",
+        "YHR208W",
+        "YJR148W",
+        "YJR016C",
+        "YLR355C"
+    ],
+    "valine degradation": [
+        "YOL086C",
+        "YMR303C",
+        "YMR083W",
+        "YGL256W",
+        "YBR145W",
+        "YDL168W",
+        "YLR044C",
+        "YLR134W",
+        "YGR087C",
+        "YHR208W",
+        "YJR148W"
+    ],
+    "very long chain fatty acid biosynthesis": [
+        "YBR159W",
+        "YDL015C",
+        "FEN1",
+        "SUR4",
+        "YJL097W"
+    ]
+}

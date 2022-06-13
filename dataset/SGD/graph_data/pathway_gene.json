@@ -1,0 +1,926 @@
+{
+    "2-ketoglutarate dehydrogenase complex": [
+        "LPD1",
+        "KGD2",
+        "KGD1"
+    ],
+    "acetoin biosynthesis": [
+        "BDH1",
+        "ILV2",
+        "ILV6"
+    ],
+    "acetoin biosynthesis II": [
+        "PDC1",
+        "PDC5",
+        "PDC6"
+    ],
+    "aerobic respiration, electron transport chain": [
+        "COB",
+        "COR1",
+        "CYT1",
+        "QCR10",
+        "QCR2",
+        "QCR6",
+        "QCR7",
+        "QCR8",
+        "QCR9",
+        "RIP1",
+        "NDI1",
+        "COX1",
+        "COX12",
+        "COX13",
+        "COX2",
+        "COX3",
+        "COX4",
+        "COX5A",
+        "COX6",
+        "COX7",
+        "COX8",
+        "COX9",
+        "SDH1",
+        "SDH2",
+        "SDH3",
+        "SDH4"
+    ],
+    "allantoin degradation": [
+        "DAL2",
+        "DAL1",
+        "DUR1,2",
+        "DAL3"
+    ],
+    "arginine biosynthesis": [
+        "ARG5,6",
+        "ARG8",
+        "ARG2",
+        "ARG7",
+        "ARG4",
+        "ARG1",
+        "CPA1",
+        "CPA2",
+        "URA2",
+        "ARG3"
+    ],
+    "arginine degradation (anaerobic)": [
+        "CAR1",
+        "CAR2",
+        "PRO3"
+    ],
+    "asparagine biosynthesis": [
+        "ASN1",
+        "ASN2",
+        "AAT1",
+        "AAT2"
+    ],
+    "asparagine degradation": [
+        "ASP1",
+        "ASP3-1",
+        "ASP3-2",
+        "ASP3-3",
+        "ASP3-4",
+        "AAT1",
+        "AAT2"
+    ],
+    "aspartate biosynthesis": [
+        "AAT1",
+        "AAT2",
+        "PYC1",
+        "PYC2"
+    ],
+    "beta-alanine biosynthesis": [
+        "ALD2",
+        "ALD3",
+        "FMS1"
+    ],
+    "biotin biosynthesis": [
+        "BIO3",
+        "BIO2",
+        "BIO4"
+    ],
+    "carnitine shuttle": [
+        "CAT2",
+        "YAT1",
+        "YAT2"
+    ],
+    "chitin biosynthesis": [
+        "CHS1",
+        "CHS2",
+        "CHS3"
+    ],
+    "chorismate biosynthesis": [
+        "ARO3",
+        "ARO4",
+        "ARO1",
+        "ARO2"
+    ],
+    "citrulline biosynthesis": [
+        "CPA1",
+        "CPA2",
+        "URA2",
+        "ARG3"
+    ],
+    "de novo biosynthesis of purine nucleotides": [
+        "RNR1",
+        "RNR2",
+        "RNR3",
+        "RNR4",
+        "YNK1",
+        "ADK1",
+        "ADK2",
+        "ADE13",
+        "ADE12",
+        "ADE4",
+        "GUA1",
+        "GUK1",
+        "ADE16",
+        "ADE17",
+        "IMD2",
+        "IMD3",
+        "IMD4",
+        "ADE5,7",
+        "ADE2",
+        "ADE1",
+        "ADE6",
+        "ADE8"
+    ],
+    "de novo biosynthesis of pyrimidine deoxyribonucleotides": [
+        "RNR1",
+        "RNR2",
+        "RNR3",
+        "RNR4",
+        "CDC8",
+        "YNK1",
+        "DUT1",
+        "CDC21"
+    ],
+    "de novo biosynthesis of pyrimidine ribonucleotides": [
+        "URA6",
+        "URA2",
+        "CPA1",
+        "CPA2",
+        "URA7",
+        "URA8",
+        "URA4",
+        "URA1",
+        "URA10",
+        "URA5",
+        "URA3"
+    ],
+    "de novo NAD biosynthesis": [
+        "QNS1",
+        "NMA1",
+        "NMA2",
+        "BNA6"
+    ],
+    "dehydro-D-arabinono-1,4-lactone biosynthesis": [
+        "ALO1",
+        "ARA2",
+        "ARA1"
+    ],
+    "diphthamide biosynthesis": [
+        "DPH1",
+        "DPH2",
+        "KTI11",
+        "DPH5",
+        "RRT2"
+    ],
+    "dolichyl glucosyl phosphate biosynthesis": [
+        "ALG5",
+        "PGM1",
+        "PGM2",
+        "UGP1"
+    ],
+    "dolichyl phosphate D-mannose biosynthesis": [
+        "DPM1",
+        "PSA1",
+        "PMI40",
+        "SEC53"
+    ],
+    "ergosterol biosynthesis": [
+        "ERG2",
+        "ERG3",
+        "ERG5",
+        "ERG26",
+        "ERG27",
+        "ERG11",
+        "ERG25",
+        "ERG24",
+        "ERG4",
+        "ERG6",
+        "ERG9",
+        "ERG20",
+        "ERG7",
+        "ERG1"
+    ],
+    "ethanol degradation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "ACS1",
+        "ACS2",
+        "ALD2"
+    ],
+    "fatty acid biosynthesis, initial steps": [
+        "FAS1",
+        "CEM1",
+        "FAS2",
+        "ACC1",
+        "HFA1",
+        "MCT1"
+    ],
+    "fatty acid elongation": [
+        "FAS1",
+        "FAS2",
+        "OAR1",
+        "CEM1"
+    ],
+    "fatty acid oxidation pathway": [
+        "FOX2",
+        "POT1",
+        "POX1",
+        "DCI1",
+        "ECI1",
+        "FAA1",
+        "FAA2",
+        "FAA3",
+        "FAA4",
+        "FAT1"
+    ],
+    "folate biosynthesis": [
+        "GCV1",
+        "GCV2",
+        "GCV3",
+        "LPD1",
+        "ABZ2",
+        "ABZ1",
+        "FOL1",
+        "DFR1",
+        "FOL3",
+        "ADE3",
+        "MIS1",
+        "SHM1",
+        "SHM2",
+        "FOL2",
+        "MTD1",
+        "MET12",
+        "MET13",
+        "CDC21"
+    ],
+    "folate biosynthesis II": [
+        "ABZ2",
+        "ABZ1",
+        "FOL1",
+        "DFR1",
+        "FOL3",
+        "FOL2"
+    ],
+    "folate interconversions": [
+        "GCV1",
+        "GCV2",
+        "GCV3",
+        "LPD1",
+        "DFR1",
+        "ADE3",
+        "MIS1",
+        "SHM1",
+        "SHM2",
+        "MTD1",
+        "MET12",
+        "MET13",
+        "CDC21"
+    ],
+    "folate polyglutamylation": [
+        "MET7",
+        "DFR1",
+        "FOL3",
+        "ADE3",
+        "MIS1",
+        "SHM1",
+        "SHM2",
+        "MET12",
+        "MET13"
+    ],
+    "folate transformations": [
+        "GCV1",
+        "GCV2",
+        "GCV3",
+        "LPD1",
+        "FAU1",
+        "ADE3",
+        "MIS1",
+        "SHM1",
+        "SHM2",
+        "MTD1",
+        "MET12",
+        "MET13"
+    ],
+    "galactose degradation": [
+        "GAL10",
+        "GAL1",
+        "PGM1",
+        "PGM2",
+        "GAL7"
+    ],
+    "gluconeogenesis": [
+        "FBP1",
+        "FBA1",
+        "PGI1",
+        "TDH1",
+        "TDH2",
+        "TDH3",
+        "MDH1",
+        "MDH2",
+        "MDH3",
+        "MAE1",
+        "PCK1",
+        "PGK1",
+        "GPM1",
+        "ENO1",
+        "ENO2",
+        "PYC1",
+        "PYC2"
+    ],
+    "glucose-6-phosphate biosynthesis": [
+        "GLK1",
+        "HXK1",
+        "HXK2"
+    ],
+    "glutamate degradation I": [
+        "UGA1",
+        "GAD1",
+        "UGA2"
+    ],
+    "glutathione-glutaredoxin redox reactions": [
+        "GPX1",
+        "GPX2",
+        "HYR1",
+        "GLR1",
+        "GTT1",
+        "GTT2"
+    ],
+    "glycerol biosynthesis": [
+        "HOR2",
+        "RHR2",
+        "GPD1",
+        "GPD2"
+    ],
+    "glycine cleavage complex": [
+        "LPD1",
+        "GCV1",
+        "GCV2"
+    ],
+    "glycogen biosynthesis": [
+        "GLG1",
+        "GLG2",
+        "GLC3",
+        "GSY1",
+        "GSY2",
+        "PGM1",
+        "PGM2",
+        "UGP1"
+    ],
+    "glycogen catabolism": [
+        "GPH1",
+        "GDB1",
+        "SGA1"
+    ],
+    "glycolysis": [
+        "PFK1",
+        "PFK2",
+        "FBA1",
+        "PGI1",
+        "TDH1",
+        "TDH2",
+        "TDH3",
+        "PGK1",
+        "GPM1",
+        "ENO1",
+        "ENO2",
+        "CDC19",
+        "PYK2",
+        "TPI1"
+    ],
+    "glyoxylate cycle": [
+        "ACO1",
+        "ACO2",
+        "CIT1",
+        "CIT2",
+        "CIT3",
+        "ICL1",
+        "MDH1",
+        "MDH2",
+        "MDH3",
+        "DAL7",
+        "MLS1"
+    ],
+    "heme biosynthesis": [
+        "HEM13",
+        "HEM15",
+        "HEM14",
+        "HEM12"
+    ],
+    "hexaprenyl diphosphate biosynthesis": [
+        "COQ1",
+        "ERG20",
+        "BTS1"
+    ],
+    "histidine biosynthesis": [
+        "HIS7",
+        "HIS1",
+        "HIS4",
+        "HIS2",
+        "HIS5",
+        "HIS3",
+        "HIS6"
+    ],
+    "homoserine biosynthesis": [
+        "HOM3",
+        "HOM2",
+        "HOM6"
+    ],
+    "<i>myo</i>-inositol biosynthesis": [
+        "INM1",
+        "INM2",
+        "INO1"
+    ],
+    "inositol phosphate biosynthesis": [
+        "ARG82",
+        "IPK1",
+        "KCS1",
+        "VIP1",
+        "DDP1",
+        "PLC1"
+    ],
+    "isoleucine biosynthesis": [
+        "ILV2",
+        "ILV6",
+        "BAT1",
+        "BAT2",
+        "ILV3",
+        "ILV5",
+        "ILV1"
+    ],
+    "isoleucine degradation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "SFA1",
+        "ARO10",
+        "PDC1",
+        "PDC5",
+        "PDC6",
+        "THI3",
+        "BAT1",
+        "BAT2"
+    ],
+    "leucine biosynthesis": [
+        "LEU4",
+        "LEU9",
+        "LEU1",
+        "LEU2",
+        "BAT1",
+        "BAT2"
+    ],
+    "leucine degradation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "SFA1",
+        "ARO10",
+        "THI3",
+        "BAT1",
+        "BAT2"
+    ],
+    "lipid-linked oligosaccharide biosynthesis": [
+        "ALG11",
+        "ALG2",
+        "ALG6",
+        "ALG8",
+        "DIE2",
+        "ALG12",
+        "ALG3",
+        "ALG9",
+        "ALG1",
+        "ALG13",
+        "ALG14",
+        "ALG7"
+    ],
+    "lysine biosynthesis": [
+        "LYS9",
+        "LYS4",
+        "LYS2",
+        "LYS20",
+        "LYS21",
+        "LYS12",
+        "LYS1"
+    ],
+    "mannose degradation": [
+        "GLK1",
+        "HXK1",
+        "HXK2",
+        "PMI40"
+    ],
+    "methionine salvage pathway": [
+        "ARO8",
+        "ARO9",
+        "BAT1",
+        "BAT2",
+        "MEU1",
+        "MRI1",
+        "ADI1",
+        "UTR4",
+        "MDE1"
+    ],
+    "methylglyoxal catabolism": [
+        "GLO2",
+        "GLO4",
+        "GLO1"
+    ],
+    "mevalonate pathway": [
+        "ERG10",
+        "MVD1",
+        "HMG1",
+        "HMG2",
+        "ERG13",
+        "IDI1",
+        "ERG12",
+        "ERG8"
+    ],
+    "NAD salvage pathway": [
+        "SIR2",
+        "QNS1",
+        "PNC1",
+        "NPT1",
+        "NMA1",
+        "NMA2"
+    ],
+    "nicotinamide riboside salvage pathway I": [
+        "NMA1",
+        "NMA2",
+        "NRK1"
+    ],
+    "non-oxidative branch of the pentose phosphate pathway": [
+        "TKL1",
+        "RKI1",
+        "RPE1",
+        "TAL1",
+        "TKL2"
+    ],
+    "oxidative branch of the pentose phosphate pathway": [
+        "SOL3",
+        "SOL4",
+        "ZWF1",
+        "GND1",
+        "GND2"
+    ],
+    "pantothenate and coenzyme A biosynthesis": [
+        "PAN5",
+        "ECM31",
+        "CAB5",
+        "CAB4",
+        "PAN6",
+        "CAB1",
+        "CAB2",
+        "CAB3",
+        "SIS2",
+        "VHS3"
+    ],
+    "phenylalanine biosynthesis": [
+        "ARO9",
+        "ARO8",
+        "ARO7",
+        "PHA2"
+    ],
+    "phenylalanine degradation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "SFA1",
+        "ARO9",
+        "ARO10",
+        "PDC1",
+        "PDC5",
+        "PDC6",
+        "ARO8"
+    ],
+    "phosphatidate biosynthesis I (the dihydroxyacetone pathway)": [
+        "AYR1",
+        "GPT2",
+        "SCT1",
+        "SLC1"
+    ],
+    "phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)": [
+        "SLC1",
+        "GPD1",
+        "GPD2",
+        "GPT2",
+        "SCT1"
+    ],
+    "phosphatidylinositol phosphate biosynthesis": [
+        "FIG4",
+        "INP52",
+        "INP53",
+        "SAC1",
+        "VPS34",
+        "LSB6",
+        "PIK1",
+        "STT4",
+        "FAB1",
+        "MSS4",
+        "YMR1",
+        "INP51",
+        "INP54"
+    ],
+    "phospholipid biosynthesis": [
+        "OPI3",
+        "CRD1",
+        "PGS1",
+        "CHO1",
+        "CHO2",
+        "PSD1",
+        "PSD2"
+    ],
+    "phospholipid biosynthesis II (Kennedy pathway)": [
+        "EKI1",
+        "ECT1",
+        "EPT1"
+    ],
+    "phospholipid biosynthesis (Kennedy pathway)": [
+        "CKI1",
+        "PCT1",
+        "CPT1"
+    ],
+    "phospholipids degradation": [
+        "PLC1",
+        "ISC1",
+        "SPO14"
+    ],
+    "proline biosynthesis": [
+        "PRO1",
+        "PRO2",
+        "PRO3"
+    ],
+    "pyruvate dehydrogenase complex": [
+        "LPD1",
+        "LAT1",
+        "PDA1",
+        "PDB1"
+    ],
+    "removal of superoxide radicals": [
+        "CTA1",
+        "CTT1",
+        "SOD1",
+        "SOD2"
+    ],
+    "riboflavin, FMN and FAD biosynthesis": [
+        "RIB2",
+        "RIB3",
+        "RIB4",
+        "RIB7",
+        "FAD1",
+        "RIB1",
+        "FMN1",
+        "RIB5"
+    ],
+    "S-adenosylmethionine cycle": [
+        "MET6",
+        "SAH1",
+        "SAM1",
+        "SAM2"
+    ],
+    "salvage pathways of adenine, hypoxanthine and their nucleosides": [
+        "PNP1",
+        "AAH1",
+        "APT1",
+        "APT2",
+        "ADO1",
+        "AMD1",
+        "HPT1"
+    ],
+    "salvage pathways of guanine, xanthine and their nucleosides": [
+        "HPT1",
+        "GUD1",
+        "XPT1"
+    ],
+    "salvage pathways of purines and their nucleosides": [
+        "PNP1",
+        "HPT1",
+        "AAH1",
+        "APT1",
+        "APT2",
+        "ADO1",
+        "AMD1",
+        "GUD1",
+        "XPT1"
+    ],
+    "salvage pathways of pyrimidine deoxyribonucleotides": [
+        "URK1",
+        "URH1",
+        "CDD1"
+    ],
+    "salvage pathways of pyrimidine ribonucleotides": [
+        "URK1",
+        "YNK1",
+        "URH1",
+        "CDD1",
+        "FCY1",
+        "FUR1"
+    ],
+    "serine biosynthesis from 3-phosphoglycerate": [
+        "SER3",
+        "SER33",
+        "SER1",
+        "SER2"
+    ],
+    "sphingolipid metabolism": [
+        "SCS7",
+        "IPT1",
+        "TSC10",
+        "YDC1",
+        "YPC1",
+        "LAC1",
+        "LAG1",
+        "LIP1",
+        "LCB4",
+        "LCB5",
+        "LCB3",
+        "YSR3",
+        "SUR2",
+        "AUR1",
+        "CSG2",
+        "SUR1",
+        "LCB1",
+        "LCB2",
+        "DPL1"
+    ],
+    "sulfate assimilation pathway": [
+        "MET14",
+        "MET16",
+        "MET3",
+        "MET10",
+        "MET5"
+    ],
+    "superpathway of glucose fermentation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "ALD4",
+        "ALD5",
+        "PDC1",
+        "PDC5",
+        "PDC6",
+        "ALD2",
+        "ALD6",
+        "GLK1",
+        "HXK1",
+        "HXK2"
+    ],
+    "superpathway of glutamate biosynthesis": [
+        "GLN1",
+        "IDP1",
+        "IDP2",
+        "IDP3"
+    ],
+    "superpathway of histidine, purine, and pyrimidine biosynthesis": [
+        "ADE4",
+        "PRS1",
+        "PRS2",
+        "PRS3",
+        "PRS4",
+        "PRS5"
+    ],
+    "TCA cycle, aerobic respiration": [
+        "KGD1",
+        "KGD2",
+        "LPD1",
+        "ACO1",
+        "ACO2",
+        "CIT1",
+        "CIT2",
+        "CIT3",
+        "FUM1",
+        "IDH1",
+        "IDH2",
+        "MDH1",
+        "MDH2",
+        "MDH3",
+        "PYC1",
+        "PYC2",
+        "SDH1",
+        "SDH2",
+        "SDH3",
+        "SDH4",
+        "LSC1",
+        "LSC2"
+    ],
+    "tetrapyrrole biosynthesis": [
+        "HEM1",
+        "HEM3",
+        "HEM2",
+        "HEM4"
+    ],
+    "thiamine biosynthesis": [
+        "THI11",
+        "THI12",
+        "THI13",
+        "Thi4",
+        "THI5",
+        "THI20",
+        "THI21",
+        "THI80",
+        "THI6"
+    ],
+    "triglyceride biosynthesis": [
+        "LRO1",
+        "SLC1",
+        "DGA1",
+        "GPT2",
+        "SCT1",
+        "PAH1"
+    ],
+    "tryptophan biosynthesis": [
+        "TRP4",
+        "TRP2",
+        "TRP3",
+        "TRP1",
+        "TRP5"
+    ],
+    "tryptophan degradation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "SFA1",
+        "ARO9",
+        "ARO10",
+        "PDC1",
+        "PDC5",
+        "PDC6",
+        "ARO8"
+    ],
+    "tryptophan degradation via kynurenine": [
+        "BNA5",
+        "BNA1",
+        "BNA7",
+        "BNA4",
+        "BNA6",
+        "BNA2"
+    ],
+    "tyrosine biosynthesis": [
+        "ARO9",
+        "ARO8",
+        "ARO7",
+        "TYR1"
+    ],
+    "ubiquinone biosynthesis from 4-hydroxybenzoate": [
+        "CAT5",
+        "COQ6",
+        "COQ3",
+        "COQ5",
+        "COQ2"
+    ],
+    "UDP-N-acetylglucosamine biosynthesis": [
+        "GFA1",
+        "GNA1",
+        "PCM1",
+        "QRI1"
+    ],
+    "valine biosynthesis": [
+        "ILV2",
+        "ILV6",
+        "BAT1",
+        "BAT2",
+        "ILV3",
+        "ILV5"
+    ],
+    "valine degradation": [
+        "ADH1",
+        "ADH2",
+        "ADH3",
+        "ADH4",
+        "ADH5",
+        "SFA1",
+        "PDC1",
+        "PDC5",
+        "PDC6",
+        "BAT1",
+        "BAT2"
+    ],
+    "very long chain fatty acid biosynthesis": [
+        "IFA38",
+        "TSC13",
+        "FEN1",
+        "SUR4",
+        "PHS1"
+    ]
+}
