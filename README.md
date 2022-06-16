@@ -11,7 +11,8 @@ Here we provide the implementation of the AdaPPI method , along with an executio
     + the implementation of self-supervision in loss function (`loss_estimator.py`);
     + the implementation of the adaptive graph convolution network (`repres_learner.py`);
     + preparing to train the adaptive graph convolution network (`trainer.py`);
-+ `util/` contains data preprocessing of PPI network dataset (`data_processor.py`).
++ `util/` contains data preprocessing of PPI network dataset (`data_processor.py`);
++ `supplementary_files/` contains the p-value of (predicted but unmatched) potential candidate protein functional modules in two tables calculated by [GOTermFinder](https://go.princeton.edu/cgi-bin/GOTermFinder) tool.
 
 Finally, `model/adappi_model.py` sets all hyperparameters and may be used to execute a full training run on PPI network dataset.
 
